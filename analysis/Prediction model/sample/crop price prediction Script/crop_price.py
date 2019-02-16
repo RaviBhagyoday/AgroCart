@@ -13,6 +13,7 @@ print(df.head())
 df = df.drop(['quantity','Area'],axis=1)
 print(df.head())
 x = np.array(df.drop(['price/kg'],axis=1))
+print(x[:10])
 y = np.array(df['price/kg'])
 
 
