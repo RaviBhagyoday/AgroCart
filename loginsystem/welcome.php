@@ -53,15 +53,45 @@ check_login();
     <div class="container">
         <header class="jumbotron hero-spacer">
             <h1>A Warm Welcome to AgroCart!</h1>
-            <p>Find Registration form Bellow</p>
-            <center>
-            <div class="dsf"></div>
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfY_julvjkB0Tf4iZHcbMOWJFLw_gSplNmZzXh_7Y9l4E6TUg/viewform?vc=0&c=0&w=1&usp=mail_form_link" style="color: white;
-  background-color: #56d25b !important;
-  border-color: #1e5120 !important; 
-  background-color:hover: #56d25b" class="btn btn-primary btn-large"> Data Collection Form </a>
+            <p>Find Registration form Bellow:</p>
             
+        
+            <center>
+            <div class="dsf" style="margin-top:8%;  margin-bottom:8%;">
+
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfY_julvjkB0Tf4iZHcbMOWJFLw_gSplNmZzXh_7Y9l4E6TUg/viewform?vc=0&c=0&w=1&usp=mail_form_link" style="color: white;
+                background-color: #56d25b !important;
+                border-color: #1e5120 !important; 
+                background-color:hover: #56d25b;  margin-left:30px !important;" class="btn btn-primary btn-large"> Rent Form </a>
+                
+            <a href="#" style="color: white; background-color: #56d25b !important; border-color: #1e5120 !important; 
+                background-color:hover: #56d25b; margin-left:30px !important;" class="btn btn-primary btn-large"> Produce Form </a>
+
+               
+            <a href="#" style="color: white; background-color: #56d25b !important; border-color: #1e5120 !important; 
+                background-color:hover: #56d25b; margin-left:30px !important;" class="btn btn-primary btn-large"> Co-farm Form </a>
+                
+            <a href="#" style="color: white; background-color: #56d25b !important; border-color: #1e5120 !important; 
+                background-color:hover: #56d25b; margin-left:30px !important;" class="btn btn-primary btn-large"> Job Form </a>
+
+        </div>
+            
+        </center>
+            <div class="f_detail" style="margin-top:5%;">
+
+            <p>Find Details of Farms Bellow:</p>   
+           
+           <center>
+
+           <div style="margin-top:8%;">
+            <a href="http://localhost/Farms/" style="color: white; background-color: #56d25b !important; border-color: #1e5120 !important; 
+                background-color:hover: #56d25b; margin-left:30px !important;" class="btn btn-primary btn-large"> Farm's Details </a>
+
+
+            </div>
+
             </center>
+
 
             
         </header>
