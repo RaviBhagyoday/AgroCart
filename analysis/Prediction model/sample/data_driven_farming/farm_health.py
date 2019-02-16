@@ -1,10 +1,7 @@
 import numpy as np 
 import pandas as pd 
-from sklearn.linear_model import LinearRegression
-import pickle
 from tensorflow.python.keras.models import Sequential
-from tensorflow.python.keras.layers import Dense, Dropout, Activation, Flatten
-from tensorflow.python.keras.layers import Conv2D, MaxPooling2D
+from tensorflow.python.keras.layers import Dense, Activation
 from tensorflow.python import keras
 
 
