@@ -9,6 +9,4 @@ Video Background:-Video JSPlugin
 Gallery Plugin:- Lightbox
 Smooth Scrol :-JS-Smooth Scroll
 Features :- Responsive,html5/css3,Google Font,Bootstrap Framwork
-Technologies :- html5,css3,js,jsquery,php,mysql,python,bootstrap Framwork
-
-
+Technologies :- html5,css3,js,jsquery,php,mysql,python,bootstrap Framwork, AWS.
